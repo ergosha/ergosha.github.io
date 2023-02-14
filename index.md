@@ -9,4 +9,4 @@ List of my favorite fruits [here](/fruitlist.md)
 
 My tasklist [here](/tasklist.md)
 
-Have a nice day :+1:
+Have a nice day!
