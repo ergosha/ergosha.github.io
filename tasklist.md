@@ -1,0 +1,6 @@
+-[x] Week 1 Assignment
+-[x] Week 2 Assignment
+-[x] Week 3 Assignment
+-[x] Week 4 Assignment
+-[] Week 5 Assignment
+-[x] Week E Assignment
