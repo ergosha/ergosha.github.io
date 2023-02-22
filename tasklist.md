@@ -4,7 +4,7 @@
 - [x] Week 4 Assignment
 - [ ] Week 5 Assignment
 - [x] Extra Bundle E Assignment
-- [ ] Extra Bundle B Assignment
-- [ ] Extra Bundle Assignment
-- [ ] Extra Bundle Assignment
+- [x] Extra Bundle B Assignment
+- [x] Extra Bundle M Assignment
+- [x] Extra Bundle D Assignment
 
